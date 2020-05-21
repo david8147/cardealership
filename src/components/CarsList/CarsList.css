@@ -1,0 +1,23 @@
+.carCard{
+    margin:0px;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid gray;
+}
+.loader{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:100px;
+}
+.carsContainer{
+    margin:20px;
+    margin-top: 20px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items:center;
+    height:100%;
+    width:90%;
+}
