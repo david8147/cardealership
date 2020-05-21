@@ -1,0 +1,12131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshots match snapshot_1 1`] = `
+<div
+  className="carsContainer"
+>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Chevy
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16106
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Silver
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18696
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2012
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      15000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18390
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      45000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15895
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5300
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Ford
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19710
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      14000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Red
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19248
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5800
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      13170
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      8000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15669
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2013
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16629
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Snapshots match snapshot_2 1`] = `
+<div
+  className="carsContainer"
+>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Chevy
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16106
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Silver
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18696
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2012
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      15000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18390
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      45000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15895
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5300
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Ford
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19710
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      14000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Red
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19248
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5800
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      13170
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      8000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15669
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2013
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16629
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Snapshots match snapshot_3 1`] = `
+<div
+  className="carsContainer"
+>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Chevy
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16106
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Silver
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18696
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2012
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      15000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18390
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      45000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15895
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5300
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Ford
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19710
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      14000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Red
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19248
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5800
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      13170
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      8000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15669
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2013
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16629
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Snapshots match snapshot_4 1`] = `
+<div
+  className="carsContainer"
+>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Chevy
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16106
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Silver
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18696
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2012
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      15000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18390
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      45000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15895
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5300
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Ford
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19710
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      14000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Red
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19248
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5800
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      13170
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      8000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15669
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2013
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16629
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Snapshots match snapshot_5 1`] = `
+<div
+  className="carsContainer"
+>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Chevy
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16106
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Silver
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18696
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2012
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      15000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18390
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      45000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15895
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5300
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Ford
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19710
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      14000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Red
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19248
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5800
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      13170
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      8000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15669
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2013
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16629
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Snapshots match snapshot_6 1`] = `
+<div
+  className="carsContainer"
+>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Chevy
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16106
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Silver
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18696
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2012
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      15000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18390
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      45000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15895
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5300
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Ford
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19710
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      14000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Red
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19248
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5800
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      13170
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      8000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15669
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2013
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16629
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Snapshots match snapshot_7 1`] = `
+<div
+  className="carsContainer"
+>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Chevy
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16106
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Silver
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18696
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2012
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      15000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18390
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      45000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15895
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5300
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Ford
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19710
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      14000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Red
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19248
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5800
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      13170
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      8000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15669
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2013
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16629
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Snapshots match snapshot_8 1`] = `
+<div
+  className="carsContainer"
+>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Chevy
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16106
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Silver
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18696
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2012
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      15000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18390
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      45000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15895
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5300
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Ford
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19710
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      14000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Red
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19248
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5800
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      13170
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      8000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15669
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2013
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16629
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Snapshots match snapshot_9 1`] = `
+<div
+  className="carsContainer"
+>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Chevy
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16106
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Silver
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18696
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2012
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      15000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18390
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      45000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15895
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5300
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Ford
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19710
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      14000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Red
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19248
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5800
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      13170
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      8000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15669
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2013
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16629
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Snapshots match snapshot_10 1`] = `
+<div
+  className="carsContainer"
+>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Chevy
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16106
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Silver
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18696
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2012
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      15000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      18390
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2016
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      45000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15895
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5300
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Ford
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19710
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      14000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      false
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      true
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Red
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      19248
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2014
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5800
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      true
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Black
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      13170
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      8000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      true
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      true
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Mercedes
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      Gray
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      15669
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2013
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      5000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      false
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+  <div
+    className="carCard"
+    data-testid="carCard"
+  >
+    <p
+      data-testid="pMake"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Make: 
+      Toyota
+    </p>
+    <p
+      data-testid="pColor"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Color: 
+      White
+    </p>
+    <p
+      data-testid="pPrice"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Price: $
+      16629
+    </p>
+    <p
+      data-testid="pYear"
+      style={
+        Object {
+          "margin": 0,
+        }
+      }
+    >
+      Year: 
+      2015
+    </p>
+    <p
+      data-testid="pMileage"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Mileage: 
+      2000
+    </p>
+    <p
+      data-testid="pLowMiles"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Low Miles: 
+      true
+    </p>
+    <p
+      data-testid="pHeatedSeats"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Heated Seats: 
+      true
+    </p>
+    <p
+      data-testid="pNavigation"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Navigation: 
+      false
+    </p>
+    <p
+      data-testid="pPowerWindows"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Power Windows: 
+      false
+    </p>
+    <p
+      data-testid="pSunRoof"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Has Sunroof: 
+      false
+    </p>
+    <p
+      data-testid="pFourWheelDrive"
+      style={
+        Object {
+          "fontWeight": "normal",
+          "margin": 0,
+        }
+      }
+    >
+      Is Four Wheel Drive: 
+      false
+    </p>
+  </div>
+</div>
+`;

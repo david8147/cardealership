@@ -44,7 +44,6 @@ class CarsList extends Component {
     orOperation = (carsList, nextProps) => {
         let filterList = [];
         for (let filter in nextProps) {
-            console.log(typeof filter);
             if (filter === 'hasSunroof' || filter === 'isFourWheelDrive' || filter === 'hasPowerWindows' || filter === 'hasNavigation' || filter === 'hasHeatedSeats'){
                 if(nextProps[filter])
                     filterList.push(filter);
@@ -72,7 +71,7 @@ class CarsList extends Component {
                     }
                     if (filterList[i] === 'mileage') {
                         selectedMileage = nextProps[filterList[i]];
-                        if (car['mileage'] < nextProps[filterList[i]])
+                        if (car['mileage'] <= nextProps[filterList[i]])
                             return true;
                     }
                 }
@@ -152,12 +151,12 @@ class CarsList extends Component {
                 fulfilledProperty['mileage'] = 'normal';
                 return true;
             }else{
-                if(car.mileage < nextProps.mileage){
+                if(car.mileage <= nextProps.mileage){
                     selectedMileage = nextProps.mileage;
                     fulfilledProperty['mileage'] = 'bold';
                 }
             }
-            return car.mileage < nextProps.mileage;
+            return car.mileage <= nextProps.mileage;
         });
 
         this.setState({

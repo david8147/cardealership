@@ -1,0 +1,138 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot tests match snapshot 1`] = `
+<div
+  className="carCard"
+  data-testid="carCard"
+>
+  <p
+    data-testid="pMake"
+    style={
+      Object {
+        "margin": 0,
+      }
+    }
+  >
+    Make: 
+    Toyota
+  </p>
+  <p
+    data-testid="pColor"
+    style={
+      Object {
+        "fontWeight": true,
+        "margin": 0,
+      }
+    }
+  >
+    Color: 
+    Red
+  </p>
+  <p
+    data-testid="pPrice"
+    style={
+      Object {
+        "margin": 0,
+      }
+    }
+  >
+    Price: $
+    19248
+  </p>
+  <p
+    data-testid="pYear"
+    style={
+      Object {
+        "margin": 0,
+      }
+    }
+  >
+    Year: 
+    2014
+  </p>
+  <p
+    data-testid="pMileage"
+    style={
+      Object {
+        "fontWeight": true,
+        "margin": 0,
+      }
+    }
+  >
+    Mileage: 
+    5800
+  </p>
+  <p
+    data-testid="pLowMiles"
+    style={
+      Object {
+        "fontWeight": true,
+        "margin": 0,
+      }
+    }
+  >
+    Has Low Miles: 
+    true
+  </p>
+  <p
+    data-testid="pHeatedSeats"
+    style={
+      Object {
+        "fontWeight": false,
+        "margin": 0,
+      }
+    }
+  >
+    Has Heated Seats: 
+    false
+  </p>
+  <p
+    data-testid="pNavigation"
+    style={
+      Object {
+        "fontWeight": true,
+        "margin": 0,
+      }
+    }
+  >
+    Has Navigation: 
+    true
+  </p>
+  <p
+    data-testid="pPowerWindows"
+    style={
+      Object {
+        "fontWeight": false,
+        "margin": 0,
+      }
+    }
+  >
+    Has Power Windows: 
+    false
+  </p>
+  <p
+    data-testid="pSunRoof"
+    style={
+      Object {
+        "fontWeight": false,
+        "margin": 0,
+      }
+    }
+  >
+    Has Sunroof: 
+    false
+  </p>
+  <p
+    data-testid="pFourWheelDrive"
+    style={
+      Object {
+        "fontWeight": false,
+        "margin": 0,
+      }
+    }
+  >
+    Is Four Wheel Drive: 
+    false
+  </p>
+</div>
+`;
